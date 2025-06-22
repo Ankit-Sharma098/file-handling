@@ -1,0 +1,35 @@
+Student 1:
+Name: harsh kumar
+Roll: 01
+Course: poem
+------------------------
+Student 2:
+Name: shandya kumari
+Roll: 9999
+Course: murga khana
+------------------------
+Student 1:
+Name: harsh sharma
+Roll: 99494'
+Course: chedi singh
+------------------------
+Student 2:
+Name: balmukunf
+Roll: 46646
+Course: ytut
+------------------------
+Student 1:
+Name: ankit
+Roll: 14
+Course: bca
+------------------------
+Student 2:
+Name: ankita
+Roll: 12
+Course: bca11
+------------------------
+Student 1:
+Name: ankit sharma
+Roll: 14
+Course: bca
+------------------------

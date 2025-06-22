@@ -1,0 +1,15 @@
+Teacher 1:
+Name: nisha
+Phone Number: 949734974
+Salary: 7477.00
+------------------------
+Teacher 2:
+Name: isha
+Phone Number: 4747474
+Salary: 68468.00
+------------------------
+Teacher 1:
+Name: Anupam mam
+Phone Number: 893533344
+Salary: 7345.00
+------------------------
